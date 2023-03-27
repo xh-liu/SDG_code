@@ -27,7 +27,6 @@ from sdg.misc import set_random_seed
 from sdg.guidance import image_loss, text_loss
 from sdg.image_datasets import _list_image_files_recursively
 from torchvision import utils
-from tools.get_text import get_ffhq_text
 import math
 import clip
 
